@@ -2,11 +2,11 @@
 
 
 <p align="center"><i>"I’m happy to share what I can, because I’m in it for the love of programming." - John Carmack</i></p>
-<p align="center">Software Engineer | Backend Developer | Frontend Developer | Fullstack Developer </p>
+<p align="center">Software Engineer | Frontend Developer | Backend Developer | Fullstack Developer </p>
 <p align="center">🌍 Egypt </p>
 
 <br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=javascript,html,css,nestjs,express,jquery,nginx,git,docker,mysql,jest,webpack,gitlab"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,angular,react,nextjs,nestjs,express,jquery,nginx,git,docker,mysql,jest"/></a></p>
 <br>
 
 <p align="center"> <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kandeel4411&theme=dracula"/></a> --> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramishenouda&langs_count=8&layout=compact&theme=dracula&hide=php,java"/></a></p>
@@ -15,6 +15,6 @@
 
 <p align="center">📚Currently Learning</p>
 <br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,golang,rust,aws,nodejs"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack,aws,kubernetes,graphql"/></a></p>
 <br>
 <p align="center">🌐 <a href="http://aramy.me/">aRamy</a></p>
