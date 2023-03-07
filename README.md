@@ -15,6 +15,6 @@
 
 <p align="center">📚Currently Learning</p>
 <br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack,aws,kubernetes,graphql"/></a></p>
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack,aws,graphql"/></a></p>
 <br>
 <p align="center">🌐 <a href="http://aramy.me/">aRamy</a></p>
