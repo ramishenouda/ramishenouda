@@ -6,11 +6,6 @@
 <p align="center">🌍 Egypt </p>
 
 <br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,angular,react,nextjs,nestjs,express,jquery,git,docker,mysql,jest"/></a></p>
-<br>
-
-<p align="center"> <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kandeel4411&theme=dracula"/></a> --> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramishenouda&langs_count=8&layout=compact&theme=dracula&hide=php,java"/></a></p>
-<p align="center"></p>
-
+<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,php,angular,react,nextjs,nestjs,express,jquery,git,docker,mysql,jest"/></a></p>
 <br>
 <p align="center">🌐 <a href="https://www.arami.online/">aRamy</a></p>
