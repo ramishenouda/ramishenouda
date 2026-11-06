@@ -12,9 +12,5 @@
 <p align="center"> <!-- <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=kandeel4411&theme=dracula"/></a> --> <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramishenouda&langs_count=8&layout=compact&theme=dracula&hide=php,java"/></a></p>
 <p align="center"></p>
 
-
-<p align="center">📚Currently Learning</p>
-<br>
-<p align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=webpack,aws,nginx,graphql"/></a></p>
 <br>
 <p align="center">🌐 <a href="https://www.arami.online/">aRamy</a></p>
